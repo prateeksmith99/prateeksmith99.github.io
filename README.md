@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media-exp1.licdn.com/dms/image/C4E16AQH0G_-Uv1aigQ/profile-displaybackgroundimage-shrink_350_1400/0/1637083708715?e=1649894400&v=beta&t=jC9TZavs2IVP_fWqWYEG4h6Q0y1zXpbtx_3_ST5Vdms" height="225", width="100%"/>
+  <img src="https://media-exp1.licdn.com/dms/image/C5616AQE5pUH8AG6Vew/profile-displaybackgroundimage-shrink_350_1400/0/1646538439237?e=1652918400&v=beta&t=fpgBD1xIXghnczPf8CAchvBwY_UCvOT_GCZ00CLR3Ks" height="225", width="100%"/>
 </p>
 <hr>
 <h1 align="center"\> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Prateek Smith Patra </h1>
